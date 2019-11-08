@@ -74,9 +74,5 @@ stack.push 189
 p stack
 stack.reverse
 p stack
-# p "original stack"
-# p stack
-# p "reversed"
-# p reverse_list stack
 
 
